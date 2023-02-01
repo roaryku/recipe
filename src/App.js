@@ -4,7 +4,7 @@ import './App.css';
 
 function App(){
   const MY_ID = "df6f65fe";
-  const MY_KEY = "afc456bb7ac227df48ba6ba00ca1f83e	-";
+  const MY_KEY = "afc456bb7ac227df48ba6ba00ca1f83e";
 
   
 
