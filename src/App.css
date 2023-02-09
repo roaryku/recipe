@@ -22,7 +22,7 @@ video {
   line-height: 18px;
   color: #575756;
   margin-left: 0px;
-  box-shadow: inset 0px 0px 0px 4px #ddd6e8;
+  -webkit-box-shadow: inset 0px 0px 0px 4px #ddd6e8;
 }
 .tasty{
   background: #ffff;
